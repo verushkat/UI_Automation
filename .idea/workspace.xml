@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d56d45c-85ec-4166-bbee-92c8e32dd550" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gtlYiGuSN6dte4XRMDoJhXlEOx" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Selenium_Practice\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.EditorTests.EditorTextTests">
+    <configuration name="AlertTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Alerts.AlertTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTests.testGetTextFromAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Alerts.AlertTests" />
+      <option name="METHOD_NAME" value="testGetTextFromAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlertTests.testSetTextInputToAlert" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Alerts" />
+      <option name="MAIN_CLASS_NAME" value="Alerts.AlertTests" />
+      <option name="METHOD_NAME" value="testSetTextInputToAlert" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EditorTests.EditorTextTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Editor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Editor" />
+      <option name="MAIN_CLASS_NAME" value="Editor.EditorTests" />
+      <option name="METHOD_NAME" value="EditorTextTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileUploadTests.uploadFileTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FileUpload.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="FileUpload" />
+      <option name="MAIN_CLASS_NAME" value="FileUpload.FileUploadTests" />
+      <option name="METHOD_NAME" value="uploadFileTests" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.EditorTests.EditorTextTests" />
+        <item itemvalue="TestNG.FileUploadTests.uploadFileTests" />
+        <item itemvalue="TestNG.AlertTests" />
+        <item itemvalue="TestNG.AlertTests.testSetTextInputToAlert" />
+        <item itemvalue="TestNG.AlertTests.testGetTextFromAlert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d56d45c-85ec-4166-bbee-92c8e32dd550" name="Default Changelist" comment="" />
+      <created>1598941818517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598941818517</updated>
+      <workItem from="1598941822503" duration="58410000" />
+      <workItem from="1599186546335" duration="75000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
